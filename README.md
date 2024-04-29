@@ -41,4 +41,4 @@ Diese Datei enthält die URL des Servers, mit dem die Skripte kommunizieren.
 Dieses Skript dient als Hauptskript, das die anderen Skripte ausführt. Es setzt den Benutzernamen und den Endpunktnamen, die in den folgenden Skripten verwendet werden. Derzeit sind die meisten Skripte auskommentiert und werden daher nicht ausgeführt, wenn Sie dieses Skript ausführen.
 
 ## Hinweis
-Bitte beachten Sie, dass Sie die Dateien im Ordner `Variablen` mit den entsprechenden Werten befüllen müssen, bevor Sie diese Skripte ausführen können. Insbesondere müssen Sie die `Server.txt`-Datei mit der URL Ihres Servers und die `Client.ps1`-Datei mit den erforderlichen Funktionen und Variablen befüllen.  
+Bitte beachten Sie, dass Sie die Dateien im Ordner `Variablen` mit den entsprechenden Werten befüllen müssen, bevor Sie diese Skripte ausführen können. Insbesondere müssen Sie die `Server.txt`-Datei mit der URL Ihres Servers und die `Client.ps1`-Datei mit den erforderlichen Funktionen und Variablen befüllen.
